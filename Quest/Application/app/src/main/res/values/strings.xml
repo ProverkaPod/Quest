@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Квест-путеводитель</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Квест-путеводитель</string>
+    <string name="nav_header_subtitle">quest.guide@mail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+    <string name="menu_home">О проекте</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_login">Вход</string>
+    <string name="login">Логин</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Вход</string>
+    <string name="action_sign_in_short">Вход</string>
+    <string name="error_invalid_email">Некорректно введен email</string>
+    <string name="error_invalid_password">Слишком котортий пароль</string>
+    <string name="error_incorrect_password">Некорректный пароль</string>
+    <string name="error_field_required">Необходимо заполнить</string>
+    <string name="permission_rationale">"Необходимо разрешение для использования подстановки адреса электронной почты."</string>
+    <string name="title_activity_login">Вход</string>
+    <string name="title_activity_registration">Регистрация</string>
+    <string name="title_activity_user_profile">Профиль</string>
+    <string name="middle_name">Отчество</string>
+    <string name="phone">Номер телефона</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="save">Сохранить</string>
+    <string name="password_confirm">Подтверждение пароля</string>
+    <string name="menu_logout">Выход</string>
+    <string name="logout_confirmation">Завершить сеанс?</string>
+    <string name="yes">Да</string>
+    <string name="menu_quest">Квест-экскурсии</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key" translatable="false">AIzaSyCj3ITbQNX0mpbeIyrHE3VWLHSBvY</string>
+</resources>

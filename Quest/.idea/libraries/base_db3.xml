@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="base.db3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Application/app/build/intermediates/compressed_assets/debug/out/assets/base.db3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

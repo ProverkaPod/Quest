@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Application/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/Application/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Application/app/build/generated/data_binding_base_class_source_out/data_binding_base_class_source_out.iml" filepath="$PROJECT_DIR$/Application/app/build/generated/data_binding_base_class_source_out/data_binding_base_class_source_out.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Application/app/build/intermediates/packaged_manifests/debug/debug.iml" filepath="$PROJECT_DIR$/Application/app/build/intermediates/packaged_manifests/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Application/app/build/generated/source/generated.iml" filepath="$PROJECT_DIR$/Application/app/build/generated/source/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Application/app/src/main/main.iml" filepath="$PROJECT_DIR$/Application/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Application/app/src/test/test.iml" filepath="$PROJECT_DIR$/Application/app/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
